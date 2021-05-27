@@ -100,12 +100,17 @@ const Form = ({ data }) => {
           </div>
           <div className="Item">
             <p>Rango de edad</p>
-            <input
+            <select
               className="Input"
               onChange={handleInputChange}
               name="agerange"
               type="text"
-            />
+            >
+                <option value="18-30">18-30</option>
+                <option value="30-50">30-50</option>
+                <option value="50-70">50-70</option>
+                <option value="70-100">70-100</option>
+            </select>
           </div>
           <button onClick={submit}>Enviar</button>
           {errorMessage}
