@@ -147,7 +147,7 @@ h1 {
 @media (max-width: 920px) {
   .Menu {
     flex-direction: row;
-    margin: 0;
+    margin: 50px 0;
     border-radius: 0;
   }
   .Menu__list {
@@ -274,6 +274,7 @@ h1 {
   }
   .Menu {
     flex-direction: row;
+    margin: 0;
 
   }
   .Menu__content{
