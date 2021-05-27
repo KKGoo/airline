@@ -7,6 +7,7 @@ Front test for ITGlobal
 
 Termine el primer modulo del contenido hice una modulo para poder hacer tabs de forma muy sencilla y facil de editar con clases definidas 
 
+![picture](https://github.com/KKGoo/airline/blob/master/public/desktop.png)
 
 
 desarrolle el diseño del modulo a falta de uno deje volar un poco por mi imaginacion hice un burguer button y hice la pagina totalmente adaptable y escalable
