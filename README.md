@@ -1,24 +1,33 @@
 # Front-test
-Front test for ITGlobal
+Front test for ITGlobers
 
- me gusto desarrollar este modulo me gusta generar alternativas creativas en mis componentes, me gustaria mucho trabajar en su empresa me emociona trabajar en grandes equipos y rendir en ello 
+Me agrado desarrollar este modulo, ya que me gusta generar alternativas creativas en mis componentes. Me emociona trabajar en su empresa, y me agrada trabajar en grandes equipos, desempeñandome bien en ello.
 
 ## Finaliza
 
-Termine el primer modulo del contenido hice un modulo para poder hacer tabs de forma muy sencilla y facil de editar con clases definidas 
+Termine el primer modulo del contenido, e hice un modulo para crear tabs de manera sencilla, con la facilidad de editar con clases definidas. 
+
 
 ![picture](https://github.com/KKGoo/airline/blob/master/public/desktop.png)
 
+-Apariencia Desktop.
 
-desarrolle el diseño del modulo a falta de uno deje volar un poco por mi imaginacion hice un burguer button y hice la pagina totalmente adaptable y escalable
+Desarrolle el diseño del modulo; a falta de un diseño, deje volar mi imaginación, e implemente un Burguer Button para el menu, e hice la pagina totalmente adaptable y escalable.
+
+
 ![picture](https://github.com/KKGoo/airline/blob/master/public/laptop.png)
 
-use las soluciones que me daba react para hacer los modulos lo mas reciclables y escalables posibles, el modulo de tabs es un plug in donde solo se pone 
+-Apariencia Laptop.
 
 ![picture](https://github.com/KKGoo/airline/blob/master/public/phoneL.png)
+
+-Apariencia Tablet.
+
 ![picture](https://github.com/KKGoo/airline/blob/master/public/phone.png)
 
+Apariencia Telefono Movil.
 
 
+Use las soluciones que ofrece React nativamente para lograr que los modulos sean mas reciclables y escalables. Las tabs funcionan por medio de un modulo alimentado desde un JSON.
 
  
