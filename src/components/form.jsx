@@ -7,7 +7,7 @@ const Form = ({ data }) => {
     name: "",
     surname: "",
     cellphone: "",
-    agerange: "",
+    agerange: "18-30",
     data: data,
   });
 
