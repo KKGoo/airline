@@ -3,6 +3,8 @@ Front test for ITGlobers
 
 Me agrado desarrollar este modulo, ya que me gusta generar alternativas creativas en mis componentes. Me emociona trabajar en su empresa, y me agrada trabajar en grandes equipos, desempeñandome bien en ello.
 
+esta corriendo actualmente en mi servidor : 191.92.167.226:3000
+
 ## Finaliza
 
 Termine el primer modulo del contenido, e hice un modulo para crear tabs de manera sencilla, con la facilidad de editar con clases definidas. 
