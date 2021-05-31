@@ -1,5 +1,6 @@
 import Home from './pages/home';
-import "../src/styles/global.scss";
+import React from 'react';
+import "../src/styles/global.css";
 
 function App() {
   return (
