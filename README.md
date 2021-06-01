@@ -3,7 +3,7 @@ Front test for ITGlobers
 
 Me agrado desarrollar este modulo, ya que me gusta generar alternativas creativas en mis componentes. Me emociona trabajar en su empresa, y me agrada trabajar en grandes equipos, desempeñandome bien en ello.
 
-esta corriendo actualmente en mi servidor : http://chamelocal.ddns.net:3000/
+esta corriendo actualmente en mi servidor : http://34.71.207.96:3000/
 
 ## Finaliza
 
